@@ -12,7 +12,7 @@ Data Schema The dataset reference information can be https://github.com/kamblihr
 
 
 ## Sections
-Introduction
+- Introduction </br>
 Data Preparation
 Create Categorical Features with TF Feature Columns
 Create Continuous/Numerical Features with TF Feature Columns
