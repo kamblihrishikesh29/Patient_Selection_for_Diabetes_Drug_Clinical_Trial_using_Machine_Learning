@@ -13,7 +13,7 @@ Data Schema The dataset reference information can be https://github.com/kamblihr
 
 ## Sections
 - Introduction </br>
-- Data Preparation </br>
+- Data Preparation and EDA </br>
 - Create Categorical Features with TF Feature Columns</br>
 - Create Continuous/Numerical Features with TF Feature Columns</br>
 - Build Deep Learning Regression Model with Sequential API and TF Probability Layers</br>
