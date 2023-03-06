@@ -13,8 +13,8 @@ Data Schema The dataset reference information can be https://github.com/kamblihr
 
 ## Sections
 - Introduction </br>
-Data Preparation
-Create Categorical Features with TF Feature Columns
-Create Continuous/Numerical Features with TF Feature Columns
-Build Deep Learning Regression Model with Sequential API and TF Probability Layers
-Evaluating Potential Model Biases with Aequitas Toolkit
+- Data Preparation </br>
+- Create Categorical Features with TF Feature Columns</br>
+- Create Continuous/Numerical Features with TF Feature Columns</br>
+- Build Deep Learning Regression Model with Sequential API and TF Probability Layers</br>
+- Evaluating Potential Model Biases with Aequitas Toolkit</br>
