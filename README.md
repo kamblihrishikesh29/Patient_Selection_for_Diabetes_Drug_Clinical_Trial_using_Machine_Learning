@@ -8,4 +8,4 @@ To identify suitable patients for our clinical trial, I will build a predictive 
 ## DataSet
  I am using a modified version of the dataset from UC Irvine (https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008). Please note that it is limited in its representation of some key features such as diagnosis codes which are usually an unordered list in 835s/837s (the HL7 standard interchange formats used for claims and remits).
 
-Data Schema The dataset reference information can be https://github.com/udacity/nd320-c1-emr-data-starter/blob/master/project/data_schema_references/ . There are two CSVs that provide more details on the fields and some of the mapped values.
+Data Schema The dataset reference information can be https://github.com/kamblihrishikesh29/Patient_Selection_for_Diabetes_Drug_Clinical_Trial_using_Machine_Learning/tree/main/Data/ . There are two CSVs that provide more details on the fields and some of the mapped values.
