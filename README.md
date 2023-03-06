@@ -9,3 +9,12 @@ To identify suitable patients for our clinical trial, I will build a predictive 
  I am using a modified version of the dataset from UC Irvine (https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008). Please note that it is limited in its representation of some key features such as diagnosis codes which are usually an unordered list in 835s/837s (the HL7 standard interchange formats used for claims and remits).
 
 Data Schema The dataset reference information can be https://github.com/kamblihrishikesh29/Patient_Selection_for_Diabetes_Drug_Clinical_Trial_using_Machine_Learning/tree/main/Data/ . There are two CSVs that provide more details on the fields and some of the mapped values.
+
+
+## Sections
+Introduction
+Data Preparation
+Create Categorical Features with TF Feature Columns
+Create Continuous/Numerical Features with TF Feature Columns
+Build Deep Learning Regression Model with Sequential API and TF Probability Layers
+Evaluating Potential Model Biases with Aequitas Toolkit
